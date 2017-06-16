@@ -48,12 +48,8 @@ The easiest way to start contributing is searching open issues by `help wanted` 
 We try to follow different coding style guides for each language. Following it is not strictly necessary to contribute and to have a pull request accepted but project maintainers try to follow it. We would love to hear your ideas to improve our code style and conventions. Feel free to contribute.
 
 The following style guides are the ones that we are currently using, please check which one should you use depending on the Project that you are going to contribute to:
-# //TODO
-* [C++](asd).
-* [Phython](asd).
-* [JavaScript](asd).
-* [Elixir](asd).
-* [Kotlin](asd).
+####### References
+* [Elixir](https://github.com/rrrene/elixir-style-guide).
 
 
 ### Feature proposal
